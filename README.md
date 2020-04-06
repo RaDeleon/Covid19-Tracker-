@@ -1,3 +1,3 @@
-Covid19 Corona virus tracker App in React
+# Covid19 Corona virus tracker App in React
 
-Keeps updating on latest cases
+### Keeps updating on latest cases
